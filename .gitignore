@@ -1,0 +1,43 @@
+﻿# Игнорируем объектные файлы
+*.o
+*.obj
+
+
+# Игнорируем исполняемые файлы
+*.exe
+*.out
+
+
+# Игнорируем файлы логов и кэша
+*.log
+*.cache
+
+
+# Игнорируем временные файлы
+*.tmp
+*~
+
+
+# Игнорируем папки сборки
+build/
+cmake-build-*/
+Debug/
+Release/
+
+
+# Игнорируем файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj*
+*.filters
+
+
+# Игнорируем файлы Makefile
+Makefile
+makefile
+
+
+# Игнорируем другие системные файлы
+Thumbs.db
+.DS_Store
