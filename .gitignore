@@ -29,13 +29,7 @@ Release/
 .vs/
 *.suo
 *.user
-*.vcxproj*
 *.filters
-
-
-# Игнорируем файлы Makefile
-Makefile
-makefile
 
 
 # Игнорируем другие системные файлы
